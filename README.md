@@ -1,5 +1,5 @@
 # 3D_Synapse_Reconstruction
-A 3D Instance Segmentation Network for Synapse Reconstruction from Serial Electron Microscopy Images
+This is the implementation code of 'A 3D Instance Segmentation Network for Synapse Reconstruction from Serial Electron Microscopy Images'.
 
 # Environment
 The code is developed and tested under the following configurations.
